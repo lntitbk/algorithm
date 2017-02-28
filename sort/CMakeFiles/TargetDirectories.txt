@@ -1,0 +1,3 @@
+/home/csit/workspaces/algorithm/sort/CMakeFiles/edit_cache.dir
+/home/csit/workspaces/algorithm/sort/CMakeFiles/rebuild_cache.dir
+/home/csit/workspaces/algorithm/sort/CMakeFiles/insert.dir
